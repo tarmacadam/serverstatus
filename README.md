@@ -1,0 +1,2 @@
+# serverstatus
+infin server status
